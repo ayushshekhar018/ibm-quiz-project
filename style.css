@@ -1,0 +1,31 @@
+body{
+    font-family: arial;
+    background: #ddd;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.dabba{
+    background: white;
+    width: 95%;
+    max-width: 480px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.hide{
+    display: none;
+}
+
+.ok{
+    background: green;
+    color: white;
+}
+
+.no{
+    background: red;
+    color: white;
+}
